@@ -1,14 +1,14 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "24/7",
+    "username": "Botos",
     "password": "",
     "type": "offline"
   },
   "server": {
     "ip": "serverpotoo.aternos.me",
     "port": 44608,
-    "version": "1.21.11",
+    "version": "1.21.x",
     "try-creative": false
   },
   "position": {
